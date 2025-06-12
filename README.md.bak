@@ -14,5 +14,3 @@ This is a markdown editor
 12. Now to push: git remote add origin https://github.com/RPUNIBO/breastcancerclassification.git
 13. git remote -v
 14. git push origin main
-15. To update: 
-16. if more than one file: git add .
