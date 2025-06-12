@@ -16,3 +16,6 @@ This is a markdown editor
 14. git push origin main
 15. To update: 
 16. if more than one file: git add .
+17. dont forget to commit: git commit -m "second commit"
+18. git remote -v
+18. git push origin main
